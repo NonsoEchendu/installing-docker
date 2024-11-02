@@ -22,7 +22,7 @@ To get started, you need to download the Docker Desktop application. Here’s ho
  <br>
 <br>
 
-- Select “Docker Desktop for Mac” and choose the version compatible with your Mac (either for Intel chips or Apple silicon).  
+- Click “Download Docker Desktop” and choose the version compatible with your Mac (either for Intel chips or Apple silicon).  
   <br> <img width="1512" alt="Screenshot 2024-11-02 at 20 17 36" src="https://github.com/user-attachments/assets/9340dc05-6d17-4deb-86a7-e42764b272b8">
 <br>
 - Click “Download” to start the download process.
